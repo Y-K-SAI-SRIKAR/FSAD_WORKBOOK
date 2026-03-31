@@ -1,3 +1,0 @@
-This is a Git experiment file.
-Feature update branch changes added.
-Bug fix branch changes added.
